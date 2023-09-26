@@ -1,6 +1,6 @@
 # Projeto de Endereço 📮
 
-![imagem](img/cadastro.pgn.png)
+![imagem](img/cadastro.png)
  
 Projeto de Endereço que  visa armazenar as informações de endereços como o CEP, Endereço, Número, Bairro, Cidade e Estado 
 com site reponsivo que é o Bootstrap.
