@@ -20,7 +20,7 @@ com site reponsivo que é o Bootstrap.
  ## 📋Descrição
 Criação de projeto de Cadastro de Endereço onde 
 ## 🔧 Funcionalidades
- - `CEP`: Campo para o usuário inserir o código postal.
+  1- Funcionalidade: - `CEP`: Campo para o usuário inserir o código postal.
 - `Endereço`: Campo para o usuário inserir seu endereço.
 - `Número`: Campo para o usúario inserir o número da sua casa.
 - `Bairro`: Campo para o usuário inserir seu bairro
