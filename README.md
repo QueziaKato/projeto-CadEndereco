@@ -20,10 +20,13 @@ com site reponsivo que é o Bootstrap.
  ## 📋Descrição
 Criação de projeto de Cadastro de Endereço onde 
 ## 🔧 Funcionalidades
- Funcionalidades 1: Tela inicial, é o primeiro contato que o usuário tem com o site. Portanto, ela é ser objetiva e direta, resumindo os objetivos da ferramenta.
- Funcionalidades 2: Início, onde o usuário tem acesso a tela inicial e suas informações como novidade, contato e saber mais.
- Funcionalidades 3: Novidades, que permite o usuário de ficar por dentro de tudo que está acontecendo sobre a página.
- Funcionalidades 4: Contatos, serve para que o usuário possa tiraram suas dúvidas, além de permitir que deixem seus feedback.
+ - `CEP`: Campo para o usuário inserir o código postal.
+- `Endereço`: Campo para o usuário inserir seu endereço.
+- `Número`: Campo para o usúario inserir o número da sua casa.
+- `Bairro`: Campo para o usuário inserir seu bairro
+- `Cidade`: Campo para o usuário inserir a sua cidade.
+- `Estado`: Campo para o usuário inserir o seu estado.
+- `Cadastrar`: Botão para salvar os dados inseridos nos campos.
 ### 🛠️ Tecnologia ultilizadas
  CSS3
  HTML5
