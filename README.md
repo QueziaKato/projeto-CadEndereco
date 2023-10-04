@@ -28,11 +28,11 @@ Criação de projeto de Cadastro de Endereço é um sistema que permite aos usu�
 - `Estado`: Onde o usuário insere o seu estado.
 - `Cadastrar`: Botão para salvar os dados inseridos nos campos.
 ### 🛠️ Tecnologia ultilizadas
- CSS3
- HTML5
+ CSS
+ HTML
  JAVASCRIPT
  ## 📄 Fontes consultadas
-
+ https://getbootstrap.com/docs/5.0/getting-started/introduction/
 ## ✒️ Autores
 * Quezia Tamie Kato
 
