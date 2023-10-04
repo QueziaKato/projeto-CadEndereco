@@ -24,7 +24,23 @@ const preencherformulario = (endereco) =>{
 Função para consumo de API
 utilizando a função do tipo assíncrona
 */
-const pesquisarcep = async() =>{
+const pesquisarCep = async() =>{
     limparFormulario();
-    const url =  `http://viacep.com.br/ws/${cep.value}/json/`;
+    const url =  `http://viacep.com.br/ws/${cep.value}/json/`
+    ;
 }
+if(cepValido(cep.value)){
+    const dados = await fetch (url);
+    const adress = await dados.json();
+    if(addres.hasOwnProperty('erro')){
+        alert('CEP não encontrado');
+    }else{
+        preencherformulario(adress);
+    }
+   }else{
+    alert('CEP incorreto');
+}
+
+// Adiciona um evento DOM, no input CEP
+document.getElementById('cep').addEventListener('focusout', pesquisarCep);
+
