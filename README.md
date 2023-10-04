@@ -19,7 +19,8 @@ com site reponsivo que é o Bootstrap.
  
  ## 📋 Descrição
 Criação de projeto de Cadastro de Endereço é um sistema que permite aos usuários registrar informações detalhadas sobre um determinado endereço, incluindo cep, endereço, número, bairro, cidade e estado, essas informações são úteis para organizar e manter um registro preciso dos locais físicos, o sistema de cadastro de endereço facilita o armazenamento dessas informações, tornando mais eficiente o gerenciamento de dados de endereços.
-## 🔧 Funcionalidades
+## 🔧 Funcionalidades 
+   Recursos
 - `CEP`: Onde o usuário insere o  seu código postal.
 - `Endereço`: Onde o usuário insere seu endereço.
 - `Número`: Onde o usúario insere o número da sua casa.
