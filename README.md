@@ -7,6 +7,10 @@
 [Tecnologia ultilizadas](#tecnologia-ultilizadas)  
 
 [Fontes consultadas](#fontes-consultadas)
+ 
+[Como executar](#como-executar) 
+
+[Contribuição](#contribuição) 
 
 [Autores](#autores)  
 
