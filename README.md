@@ -35,11 +35,11 @@ Criação de projeto de Cadastro de Endereço é um sistema que permite aos usu�
  BOOTSTRAP
  ## 📄 Fontes consultadas
  https://getbootstrap.com/docs/5.0/getting-started/introduction/
- ## Como executar
+ ## ➡️ Como executar
 1. Clone este repositório.
 2. Instale as dependências necessárias utilizando o comando [inserir comando].
 3. Execute o projeto utilizando o comando [inserir comando].
-## Contribuição
+## ✅ Contribuição
 Contribuições são bem-vindas! Se você quiser colaborar com este projeto, siga os passos abaixo:
 1. Faça um fork deste repositório.
 2. Crie uma branch para a sua feature (`git checkout -b minha-feature`).
