@@ -50,8 +50,10 @@ Contribuições são bem-vindas! Se você quiser colaborar com este projeto, sig
 3. Faça commit das suas alterações (`git commit -m 'Adicionando nova funcionalidade'`).
 4. Faça push para a branch criada (`git push origin minha-feature`).
 5. Abra um Pull Request.
+
 ## ✒️ Autores
 * Quezia Tamie Kato
+<img src="img/perfil.png" width="10%">
 
 
 
