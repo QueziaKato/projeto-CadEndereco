@@ -37,7 +37,7 @@ Criação de projeto de Cadastro de Endereço é um sistema que permite aos usu�
  HTML
  JAVASCRIPT
  BOOTSTRAP
- Arrow functions, ou na tradução para o português “funções de seta”, são um tipo de sintaxe utilizada para escrever funções de forma mais condensada
+ Arrow functions, ou na tradução para o português “funções de seta”, são um tipo de sintaxe utilizada para escrever funções de forma mais condensada.
  ## 📄 Fontes consultadas
  https://getbootstrap.com/docs/5.0/getting-started/introduction/
  ![imagem](img/grava%C3%A7%C3%A3o.gif)
