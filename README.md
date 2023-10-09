@@ -53,7 +53,7 @@ Contribuições são bem-vindas! Se você quiser colaborar com este projeto, sig
 
 ## ✒️ Autores
 * Quezia Tamie Kato
-<img src="img/perfil.png" width="10%">
+<img src="img/perfil.png" width="15">
 
 
 
