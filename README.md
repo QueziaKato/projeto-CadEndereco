@@ -39,6 +39,7 @@ Criação de projeto de Cadastro de Endereço é um sistema que permite aos usu�
  BOOTSTRAP
  ## 📄 Fontes consultadas
  https://getbootstrap.com/docs/5.0/getting-started/introduction/
+ ![imagem](img/grava%C3%A7%C3%A3o.gif)
  ## ➡️ Como executar
 1. Clone este repositório.
 2. Instale as dependências necessárias utilizando o comando [inserir comando].
